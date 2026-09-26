@@ -1,0 +1,60 @@
+AJAY KUMAR GARG ENGINEERING COLLEGE
+Courses and Branches
+==================================================
+
+Program: B.Tech
+Course: Computer Science and Engineering
+Sanctioned Intake: 450
+--------------------------------------------------
+Program: B.Tech
+Course: Computer Science and Engineering (Artificial Intelligence & Machine Learning)
+Sanctioned Intake: 180
+--------------------------------------------------
+Program: B.Tech
+Course: Computer Science and Engineering (Data Science)
+Sanctioned Intake: 120
+--------------------------------------------------
+Program: B.Tech
+Course: Computer Science (Hindi)
+Sanctioned Intake: 60
+--------------------------------------------------
+Program: B.Tech
+Course: Information Technology
+Sanctioned Intake: 180
+--------------------------------------------------
+Program: B.Tech
+Course: Electronics and Communication Engineering
+Sanctioned Intake: 180
+--------------------------------------------------
+Program: B.Tech
+Course: Mechanical Engineering
+Sanctioned Intake: 60
+--------------------------------------------------
+Program: B.Tech
+Course: Electrical and Electronics Engineering
+Sanctioned Intake: 60
+--------------------------------------------------
+Program: B.Tech
+Course: Civil Engineering
+Sanctioned Intake: 30
+--------------------------------------------------
+Program: Master of Computer Applications (MCA)
+Course: MCA
+Sanctioned Intake: 120
+--------------------------------------------------
+Program: M.Tech
+Course: Computer Science and Engineering
+Sanctioned Intake: 18
+--------------------------------------------------
+Program: M.Tech
+Course: Electrical and Electronics Engineering
+Sanctioned Intake: 12
+--------------------------------------------------
+Program: M.Tech
+Course: Electronics and Communication Engineering
+Sanctioned Intake: 12
+--------------------------------------------------
+Program: M.Tech
+Course: Mechanical Engineering
+Sanctioned Intake: 9
+--------------------------------------------------
